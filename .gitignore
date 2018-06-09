@@ -10,3 +10,16 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+.idea/codeStyles/Project.xml
+.idea/compiler.xml
+.idea/dbnavigator.xml
+.idea/misc.xml
+.idea/workspace.xml
+springpharmacy.iml
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/com/.DS_Store
+src/main/java/com/wsjk/.DS_Store
+src/main/java/com/wsjk/springpharmacy/.DS_Store
+src/main/resources/.DS_Store
