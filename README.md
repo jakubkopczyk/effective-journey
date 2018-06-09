@@ -1,3 +1,4 @@
+![](pills-icon.png)
 # Spring pharmacy
 ![](https://img.shields.io/github/last-commit/jakubkopczyk/spring-pharmacy.svg)  
 ![](https://img.shields.io/github/languages/top/jakubkopczyk/spring-pharmacy.svg)  
