@@ -81,13 +81,14 @@ left: 140px;
 body {
 		background: url(../assets/tlo.jpg) repeat;
         background-color: #3b4113;
-		margin-top:0px;
-		margin-left:auto;
-		margin-right:auto;
-		margin-bottom:0px;
-		width:780px;
-		height: 790px;
-		list-style: none;
+        		margin-top:0px;
+        		margin-left:auto;
+        		margin-right:auto;
+        		margin-bottom:0px;
+        		width:1000px;
+        		height: 1400px;
+
+        		list-style: none;
 
     }
 
@@ -108,23 +109,26 @@ background:#6a7330;
 #naglowek {
 
 
-        width:780px;
-        height:253px;
+         width:780px;
+         height:253px;
     }
 #menu {
      background: #fff url(../assets/menu.jpg) no-repeat;
-        width:780px;
-        height:44px;
-		margin-top:-16px;
+         width:1000px;
+                height:56px;
+        		margin-top:-16px;
 	}
 #menu a {
 		display: block;
-		padding: 0px 26px 24px 24px;
-		color:#f7f7f7;
-		margin-top:8px;
-		float: left;
-		text-align:center;
-		font-weight: bold;
+        		padding: 0px 26px 24px 50px;
+        		color:#f7f7f7;
+        		margin-top:8px;
+        		margin-right: 100px;
+        		float: left;
+        		text-align:center;
+        		font-weight: bold;
+        		line-height: 30px;
+
 	}
 #menu a:hover {
 		margin-top:8px;
@@ -132,23 +136,23 @@ background:#6a7330;
 	}
 #tytul {
      background: #fff url(../assets/tytul.jpg) no-repeat;
-		width:641px;
-		height:56px;
-		margin-left:auto;
-		margin-right:auto;
-		margin-top:20px;
-		text-align:center;
+		width:1000px;
+        		height:94px;
+        		margin-left:auto;
+        		margin-right:auto;
+        		margin-top:20px;
+        		text-align:center;
 	}
 #tytul h3 {
 		padding-top:15px;
 }
 #tresc {
       background: #fff url(../assets/tlo_tekst.jpg) repeat;
-        width:641px;
-		height:auto;
-		margin-left:auto;
-		margin-right:auto;
-		margin-bottom:0px;
+         width:1000px;
+        		height:1400px;
+        		margin-left:auto;
+        		margin-right:auto;
+        		margin-bottom:0px;
 	}
 #tresc a {
 		width:auto;
@@ -184,11 +188,14 @@ background:#6a7330;
 }
 #stopka {
        background: #f2f2f0 url(../assets/stopka.jpg) no-repeat;
-        clear:both;
-		font-size:11px;
-		font-family:Verdana, Arial, Helvetica, sans-serif;
-		height:29px;
-		color:#FFFFFF;
+        width:1000px;
+                clear:both;
+        		font-size:11px;
+        		font-family:Verdana, Arial, Helvetica, sans-serif;
+        		height:37px;
+        		color:#FFFFFF;
+        		position: absolute;
+        		bottom: 0;
 	}
 #stopka a {
 		color: #FFFFFF;
