@@ -19,9 +19,6 @@ public abstract class GenericDAOImpl< T extends Serializable> implements  IGener
 
     private Class< ? extends T > entityClass;
 
-//    public final void setClass( Class< T > classToSet ){
-//        this.entityClass = classToSet;
-//    }
     //@SuppressWarnings("unchecked")
     public GenericDAOImpl(){
         Type t = getClass().getGenericSuperclass();
